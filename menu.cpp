@@ -16,6 +16,9 @@ int main(){
 			cout<<"Saliendo . . ."<<endl;
 			system("pause");
 			break;
+			default:
+			cout<<"Opcion no valida"<<endl;
+			break;
 	}
 
 
