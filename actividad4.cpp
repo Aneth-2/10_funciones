@@ -23,7 +23,8 @@ int main() {
         Rp=-b/(2*a);
         Ip=sqrt(-d)/(2*a);
         cout<<"Las raices complejas son:"<< endl;
-       
+        cout<<"Raiz 1: "<<Rp<<" + "<<Ip<<"i"<<endl;
+        cout<<"Raiz 2: "<<Rp<<" - "<<Ip<<"i"<<endl;
     }
 
     return 0;
