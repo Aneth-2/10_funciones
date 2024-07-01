@@ -44,7 +44,9 @@ int main() {
         cout<<"GANASTE!!"<<endl;
     } else if(user<pc) {
         cout<<"LA COMPUTADORA GANO!!"<<endl;
-    } 
+    }  else {
+        cout<<"UN EMPATE!!"<<endl;
+    }
 
     return 0;
 }
